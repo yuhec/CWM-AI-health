@@ -2,7 +2,7 @@
 
 # 🚀 Démystifions l'IA : Détection du Cancer du Sein avec TensorFlow 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DhwmCqa-FSeDtvppbGo21PPt_fWxqVP7#scrollTo=OzPO_P7wItMT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1qIM_ixEGTFX5vL4ImK6Bk26dRNqfsV0E?usp=sharing)
 
 ## Bienvenue !
 
